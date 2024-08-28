@@ -33,8 +33,8 @@ Requirements : numpy and matplotlib library (For testing of python codes)
 
 ### MDP Diagram
 
-Black box : Transition Probabilty Values
-Blue Box : Reward Values of Transitions
+- Black box : Transition Probabilty Values
+- Blue Box : Reward Values of Transitions
 
 ![Diagram Description](images/MDP_diagram.PNG)
 
