@@ -1,5 +1,7 @@
 # Assignment 1
 
+Requirements : numpy library (For testing of python codes)
+
 ## Q.1
 
 ### Transition Probability Table
