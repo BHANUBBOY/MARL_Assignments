@@ -1,6 +1,6 @@
 # Assignment 1
 
-Requirements : numpy library (For testing of python codes)
+Requirements : numpy and matplotlib library (For testing of python codes)
 
 ## Q.1
 
@@ -31,9 +31,16 @@ Requirements : numpy library (For testing of python codes)
 - Academic Building: Attend Class
 - Canteen: Attend Class
 
+### MDP Diagram
+
+Black box : Transition Probabilty Values
+Blue Box : Reward Values of Transitions
+
 ![Diagram Description](images/MDP_diagram.PNG)
 
-## Q.2
+### Q.2
+
+### Result of Quiver Plot in PNG Formate
 
 ![Diagram Description](images/Optimal_Policy_from_Value_Iteration_Method.png)
 
