@@ -3,7 +3,7 @@
 ## Q.1
 
 ### Transition Probability Table
-![Table Description](images/table_mdp.png)
+![Table Description](images/table_mdp.PNG)
 
 ### Optimal Values and Policy With Value Iteration
 
@@ -26,9 +26,10 @@
 
 ### Optimal Policy (Policy Iteration):
 - Hostel: Attend Class
+- Academic Building: Attend Class
 - Canteen: Attend Class
 
-![Diagram Description](images/MDP_diagram.png)
+![Diagram Description](images/MDP_diagram.PNG)
 
 ## Q.2
 
